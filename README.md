@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Neste projeto, você vai aprender como usar um Arduino Uno e o sensor umidade do solo do tipo resistivo. É um projeto simples, ideal para quem está começando a explorar o mundo da eletrônica e da programação!
+Neste projeto, você aprenderá a integrar um Arduino Uno com um sensor de umidade do solo resistivo no simulador TINKERCAD. Ao ajustar a umidade detectada pelo sensor no simulador, o brilho de um LED conectado ao Arduino irá variar de acordo com os níveis de umidade do solo.
 
 > [!NOTE]
 > Este projeto foi desenvolvido para um minicurso ministrado no evento da II Semana de Engenharia de Alimentos da Unilab
