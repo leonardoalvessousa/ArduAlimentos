@@ -1,7 +1,7 @@
 
 ![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/BannerProj.jpg)
 
-## Introdução
+## Resumo da Prática
 
 Neste projeto, você aprenderá a integrar um Arduino Uno com um sensor de umidade do solo resistivo na plataforma TINKERCAD. Ao ajustar a umidade detectada pelo sensor no simulador, o brilho de um LED conectado ao Arduino irá variar de acordo com os níveis de umidade do solo.
 
@@ -17,7 +17,7 @@ Neste projeto, você aprenderá a integrar um Arduino Uno com um sensor de umida
 - Protoboard (opcional) 
 - Simulador Tinkercad
 
-### Diagrama de Ligação
+### Ligações no Arduino Uno
 
 ![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/CircuiteArdu.jpg)
 
