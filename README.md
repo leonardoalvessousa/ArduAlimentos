@@ -1,5 +1,6 @@
 
-![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/RaspAsmBareMetal/refs/heads/main/rpiIMG.jpg)
+![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/BannerProj.jpg)
+
 ## Introdução
 
 Neste projeto, você vai aprender como usar um Arduino Uno e o sensor umidade do solo do tipo resistivo. É um projeto simples, ideal para quem está começando a explorar o mundo da eletrônica e da programação!
@@ -18,13 +19,12 @@ Neste projeto, você vai aprender como usar um Arduino Uno e o sensor umidade do
 
 ### Diagrama de Ligação
 
-![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/RaspAsmBareMetal/refs/heads/main/rpiIMG.jpg)
+![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/CircuiteArdu.jpg)
 
 ### Código Arduino
 
 ```ArduinoCode
 // C++ code
-//
 
 int led = 11;
 
@@ -44,7 +44,6 @@ void loop()
   map(umidade,0,1023,0,100);
   
   analogWrite(led, umidade);
-  
 }
 ```
 
