@@ -66,6 +66,11 @@ void loop()
     - **`map(umidade,0,1023,0,100);`**: Essa linha ajusta o valor da `umidade` para uma escala mais fácil de entender. Ela converte o valor original (0-1023) para uma escala de 0 a 100, onde 0 representa a menor umidade e 100 a maior umidade.
     - **`analogWrite(led, umidade);`**: Essa linha controla o brilho do LED de acordo com a umidade. O valor da `umidade`, que agora está em uma escala de 0 a 100, é usado para definir o brilho do LED. Um valor de 0 significa que o LED estará apagado, e um valor de 100 significa que o LED estará no brilho máximo.
 
+### Resultados da Simulação
+
+![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/ardugif.gif)
+
+
 ## 😼 Autor
 
 🐈‍⬛ @leonardoalvessousa
