@@ -68,7 +68,7 @@ void loop()
 
 ### Resultados da Simulação
 
-![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/ardugif.gif)
+![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/ardugiflogo.gif)
 
 
 ## 😼 Autor
