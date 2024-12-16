@@ -15,7 +15,7 @@ Neste projeto, você aprenderá a integrar um Arduino Uno com um sensor de umida
 - Resistor de 10k ohms
 - Jumper wires
 - Protoboard (opcional) 
-- Simulador Tinkercad **[Simulador Tinkercad/LOGIN](https://www.tinkercad.com/login)**
+- **[Simulador Tinkercad/LOGIN](https://www.tinkercad.com/login)**
 
 ### Ligações no Arduino Uno
 
