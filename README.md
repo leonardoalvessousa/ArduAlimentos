@@ -12,7 +12,7 @@ Neste projeto, você aprenderá a integrar um Arduino Uno com um sensor de umida
 
 - Arduino Uno
 - Sensor de Umidade do Solo (Resistivo)
-- Resistor de 10k ohms
+- Resistor de 1k ohms (padrão em kits de robótica)
 - Jumper wires
 - Protoboard (opcional) 
 - **[Simulador Tinkercad/LOGIN](https://www.tinkercad.com/login)**
@@ -20,6 +20,22 @@ Neste projeto, você aprenderá a integrar um Arduino Uno com um sensor de umida
 ### Ligações no Arduino Uno
 
 ![Texto Alternativo](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/CircuiteArdu.jpg)
+
+**Arduino Uno & LED indicador**
+
+| UNO |  LED  |
+|-----|-------|
+| GND | Catodo|
+| 11 | Anodo |
+
+**Arduino Uno & sensor de umidade do solo**
+
+| UNO | Sensor |
+|-----|--------|
+| GND |  GND   |
+| 5V  |  VCC   |
+| A0  |  SIG   |
+
 
 ### Código Arduino
 
