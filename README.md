@@ -91,6 +91,10 @@ void loop()
 
 🐈‍⬛ @leonardoalvessousa
 
+## License
+
+> MIT
+
 ## 🎁 Expressões de gratidão
 
 - Conte a outras pessoas sobre este projeto 📢;
